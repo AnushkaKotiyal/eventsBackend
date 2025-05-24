@@ -27,6 +27,9 @@ The system uses a SQL-based relational schema with the following key tables:
 | `OTP_Logs`     | Stores OTP entries for verification       |
 
 🧑‍💻 Developer Info
+
 Developer: Anushka Kotiyal
+
 Database: SQL Server 
+
 Contact: anushkakotiyal7@example.com
